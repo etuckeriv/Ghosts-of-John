@@ -50,7 +50,7 @@ Whenever John wakes up, the struggle for possession of John happens before the G
 
 If the GM wins posession of John, they may play out the story as they wish to help redirect or bring the gameplay to a close.
 
-As a Spirit, it is awkward and somewhat difficult to remain in possession of John's body. Whenever nothing exciting is happening for ten minutes or more (such as on a bus ride or the like), the GM should roll a die. On a roll of 4 or higher, John goes to sleep and wakes up whenever (prompting a struggle for control of John). When John naps like this, all of the Spirits gain one Willpower.
+As a Spirit, it is awkward and somewhat difficult to remain in possession of John's body. Whenever nothing exciting is happening for ten minutes or more (such as on a bus ride or the like), the GM should roll a die. On a roll of 4 or higher, John goes to sleep and wakes up whenever (prompting a struggle for posession of John). When John naps like this, all of the Spirits gain one Willpower.
 
 ### Playing
 
