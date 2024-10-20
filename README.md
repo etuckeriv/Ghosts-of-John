@@ -21,7 +21,7 @@ Ghosts of John uses six-sided dice (you really only need one, but it might be ea
 
 Spirits are the Player Characters (PCs) in Ghosts of John. They are defined by a simple character sheet:
 
-- Willpower - A pool of points that the Spirit can spend to take control of John or improve its chance of success in any given action. Willpower will go down and up a lot in the game, so it might be easier to represent it with tokens rather than numbers on a page. Willpower starts off at 10 for most Spirits.
+- Willpower - A pool of points that the Spirit can spend to take possession of John or improve its chance of success in any given action. Willpower will go down and up a lot in the game, so it might be easier to represent it with tokens rather than numbers on a page. Willpower starts off at 10 for most Spirits.
 - Skills - Each Spirit has two or three skills that they carried over from their previous lives. This is a freeform game, so just write down a short description of the skill, like "Drives well," or "Good at persuading people." Most Spirits have two skills, but you can have three if you start at 7 Willpower instead of 10.
 - Obsession - This is kind of like a winning condition: if you complete your obsession more than other Spirits complete their obsession, you win. Obsessions come in three grades:
     - Level 1 (pretty easy to accomplish, like "Pigging out on candy"). A fun concept for Ghosts of John is that this is some normal or mundane task you were doing when you died
