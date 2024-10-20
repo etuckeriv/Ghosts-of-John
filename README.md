@@ -7,13 +7,12 @@
 This is a fork from [rtwolf](https://github.com/rtwolf/Everyone-is-John). Changes are based on a fun idea inspired by my friend, Lodane, that "John is Haunted" by spirits who battle for posession of his body.
 
 ### Main Updates:
-- Replaced concepts and verbiage that may be construed as ablest or transphobic, as well as those that could be stigmatizing or alienating to people who live with mental health conditions
-- Instead of being "an insane man controlled by Voices", John is "a normal guy possessed by Spirits"
-- The GM, as John, can also win possession of John in a bid if they wish. This can help redirect the story if needed, and/or provide a cleaner ending once all PCs have expended their willpower
+- Replaced concepts and verbiage that may be construed as ablest or transphobic, as well as those that could be stigmatizing or alienating to people who live with mental health conditions.
+- The GM, as John, can also win possession of John in a bid if they wish. This can help redirect the story if needed, and/or provide a cleaner ending once all PCs have expended their willpower.
 
 ## The Game Itself
 
-_Ghosts of John_ is a humorous, competitive roleplaying game about playing the various Spirits who follow and haunt John, a regular dude from Minneapolis. One participant is the GM, or, in Ghosts of John lingo, "Everyone Else." All of the other players are spirits that can take posession of John.
+_Ghosts of John_ is a humorous, competitive roleplaying game about playing the various Spirits who follow and haunt John, a regular dude from Minneapolis. One participant is the GM, or, in Ghosts of John lingo, "Everyone Else.", and may also occasionally win possession of John. All of the other players are "Spirits" that can take posession of John.
 
 Ghosts of John uses six-sided dice (you really only need one, but it might be easiest if every participant carries one) for play.
 
