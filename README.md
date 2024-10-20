@@ -36,15 +36,15 @@ If you're going to seriously compete with the other Voices, you probably should 
 
 John is a totally average guy in Minneapolis. He is occasionally posessed by the Spirits that haunt him — one at a time, of course.
 
-While John is a pretty normal guy with his own thoughts, skills, and abilities; spirits are unable to access them while they are in posession of his body. Spirits also find it a little strange and awkward to inhabit a body that does not belong to them, so they may have difficulty with a lot of things that you and I might take for granted. Whenever a Spirit attempts anything while in possession of John that an ordinary person might have any chance of failure at, they needs to roll for success.
+While John is a pretty normal guy with his own thoughts, skills, and abilities; spirits are unable to access them while they are in posession of his body. Spirits also find it a little strange and awkward to inhabit a body that does not belong to them, so they may have difficulty with a lot of things that you and I might take for granted. Whenever a Spirit attempts anything while in possession of John that an ordinary person might have any chance of failure at, they need to roll for success.
 
-The Spirit who is currently in posession of John does the rolling. If that Spirit has a skill that applies to the situation, the Spirit needs to roll a 3 or higher on the single d6\. If it doesn't have a skill that applies, it needs to roll a 6\. However, before the roll, the Spirit can spend any number of Willpower points to get a +1 per point spent on the die roll. This can make success automatic.
+The Spirit who is currently in posession of John does the rolling. If that Spirit has a skill that applies to the situation, the Spirit needs to roll a 3 or higher on a single d6\. If it doesn't have a skill that applies, it needs to roll a 6\. However, before the roll, the Spirit can spend any number of Willpower points to get a +1 per point spent on the die roll. This can make success automatic.
 
 Becoming the active Spirit is a bit of a challenge, though. Whenever John wakes up or gets hurt, a test for posession of John happens. Also, whenever the currently active Spirit fails a roll or completes its obsession, a test for posession of John happens.
 
-When a test for posession of John occurs, all of the Spirits who are interested simultaneously bid one or more Willpower points (if you're using tokens for Willpower, it's easiest for everyone to just hold out the tokens in their closed hands, and then, when everyone's ready, reveal the number of tokens). Spirits don't have to bid if they don't want to (and you can hold out zero tokens if you want to fake out the other Voices). The GM, if desired, may also act as John's willpower by rolling a hidden D6, and any bids by interested Spirits must be higher than the roll in order to take possession of John. Otherwise, the highest bid of Willpower becomes the active Spirit. If multiple people bid the same highest amount (including the GM as John), then they roll off to see who becomes active.
+When a test for posession of John occurs, all of the Spirits who are interested simultaneously bid one or more Willpower points (if you're using tokens for Willpower, it's easiest for everyone to just hold out the tokens in their closed hands, and then, when everyone's ready, reveal the number of tokens). Spirits don't have to bid if they don't want to (and you can hold out zero tokens if you want to fake out the other Spirits). The GM, if desired, may also act as John's willpower by rolling a hidden D6, and any bids by interested Spirits must be higher than the roll in order to take possession of John. Otherwise, the highest bid of Willpower wins posession of John. If multiple people bid the same highest amount (including the GM as John), then they roll off to see who wins posession.
 
-The Spirit who becomes active loses the amount of Willpower it bids. All others keep their bids. It's perfectly acceptible for the previously active Spirit to win a bid and remain in possession of John.
+The Spirit who wins possession loses the amount of Willpower it bids. All others keep their bids. It's perfectly acceptible for the previously active Spirit to win a bid and remain in possession of John.
 
 Whenever John wakes up, the struggle for possession of John happens before the GM describes the situation John wakes up into.
 
@@ -54,7 +54,7 @@ As a Spirit, it is awkward and somewhat difficult to remain in possession of Joh
 
 ### Playing
 
-Play begins with John waking up in the morning (and a test for posession of him). The GM then describes the circumstances into which he wakes up. With all the different Spirits that haunt John, you never can tell. He could be in a gutter somewhere, or he could be in a palatial estate, or anywhere in between. The Spirits really have no idea how they ended up here.
+Play begins with John waking up in the morning (and with a test for posession of him). The GM then describes the circumstances into which he wakes up. With all the different Spirits that haunt John, you never can tell. He could be in a gutter somewhere, or he could be in a palatial estate, or anywhere in between. The Spirits really have no idea how they ended up here.
 
 At this point, the Spirits should start working on fulfilling their obsessions and avoiding getting John killed. Inevitably, their Willpowers will decrease. Once all of the Spirits are out of Willpower, John regains possession, sinks back into sleep, and the game session is over.
 
