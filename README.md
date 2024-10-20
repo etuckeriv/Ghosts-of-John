@@ -54,7 +54,7 @@ As a Spirit, it is awkward and somewhat difficult to remain in possession of Joh
 
 ### Playing
 
-Play begins with John waking up in the morning (and with a test for posession of him). The GM then describes the circumstances into which he wakes up. With all the different Spirits that haunt John, you never can tell. He could be in a gutter somewhere, or he could be in a palatial estate, or anywhere in between. The Spirits really have no idea how they ended up here.
+Play begins with John waking up in the morning (and with a test for posession of him). The GM then describes the circumstances into which he wakes up. With all the different Spirits that haunt John, you never can tell. He could be in a gutter somewhere, or he could be in a palatial estate, or anywhere in between. Taking possession of the living is a jarring experience, and once in possession of John, the Spirits really have no idea how they ended up here. Likewise, if John wins possession he has no recollection of his activities while possessed by a Spirit.
 
 At this point, the Spirits should start working on fulfilling their obsessions and avoiding getting John killed. Inevitably, their Willpowers will decrease. Once all of the Spirits are out of Willpower, John regains possession, sinks back into sleep, and the game session is over.
 
