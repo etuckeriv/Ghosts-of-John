@@ -30,7 +30,7 @@ Spirits are the Player Characters (PCs) in Ghosts of John. They are defined by a
 
 The harder obsessions count more than the easier ones.
 
-If you're going to seriously compete with the other Voices, you probably should keep your sheet a secret.
+If you're going to seriously compete with the other Spirits, you probably should keep your sheet a secret.
 
 ### John
 
